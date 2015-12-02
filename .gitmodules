@@ -1,0 +1,3 @@
+[submodule "repocurso"]
+	path = repocurso
+	url = https://github.com/caroliphone/repocurso.git
